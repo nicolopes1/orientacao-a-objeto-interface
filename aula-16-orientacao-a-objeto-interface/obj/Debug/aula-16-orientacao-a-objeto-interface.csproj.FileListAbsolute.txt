@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\bin\Debug\aula-16-orientacao-a-objeto-interface.exe.config
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\bin\Debug\aula-16-orientacao-a-objeto-interface.exe
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\bin\Debug\aula-16-orientacao-a-objeto-interface.pdb
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\obj\Debug\aula-16-orientacao-a-objeto-interface.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\obj\Debug\aula-16-orientacao-a-objeto-interface.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\obj\Debug\aula-16-orientacao-a-objeto-interface.exe
+C:\Users\nicol\source\repos\aula-16-orientacao-a-objeto-interface\aula-16-orientacao-a-objeto-interface\obj\Debug\aula-16-orientacao-a-objeto-interface.pdb
